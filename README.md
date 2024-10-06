@@ -1,6 +1,5 @@
 # Bike_Sharing_Dataset
-# Nama Proyek
-**Analisis Penyewaan Sepeda dengan Streamlit**
+# Nama Proyek : **Analisis Penyewaan Sepeda dengan Streamlit**
 
 **Deskripsi Proyek**
 Proyek ini bertujuan untuk menganalisis data penyewaan sepeda berbasis sistem berbagi sepeda (bike sharing) di sebuah kota. Dataset yang digunakan mencakup informasi penyewaan harian dan per jam dengan berbagai fitur terkait seperti cuaca, musim, hari dalam seminggu, jumlah pengguna terdaftar dan pengguna kasual, serta jumlah total penyewaan.
